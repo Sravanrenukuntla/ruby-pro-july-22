@@ -13,12 +13,12 @@ a = 2232
 #local var
 
 def sample
-	#puts aa = 3
+	puts aa = 3
 end
 
 #puts aa = 3
 
 SAM = 12.15
- puts "jhjkhhj"
+ puts
 
 
