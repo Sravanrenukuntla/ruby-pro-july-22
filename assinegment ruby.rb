@@ -35,10 +35,9 @@
 # arr = [1,22,5,4,5,4,6,5,6,5]
 # puts arr.count(5)
 
-#4)
+# #4)
 # string = "this is ruby training"
 #  puts string.count('i')
-
 # 5)
 # student_marks = Hash.new 0
 # student_marks['Literature'] = 74
@@ -72,17 +71,6 @@
 # print color.include? 'Green'
 # print "\nCheck if 'Pink' in color array!\n"
 # print color.include? 'Pink'
-
-
-# #10)
-# str = "ruby training is going On,  
-# ruby program practising,
-# ruby sessions under progress,
-# ruby summary session completed,
-# ruby assingement is doing now."
-
-# Printf "Number of lines of the string",str.lines.count
-
 
 # # 9)
 # def check_string(n, my_string)

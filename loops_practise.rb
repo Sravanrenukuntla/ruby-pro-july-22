@@ -13,12 +13,13 @@
 # end
 
 marks_obtained = 100
-puts result = marks_obtained > 40 ? 'Pass' : 'Fail'
+puts result = marks_obtained = 40 ? 'Pass' : 'Fail'
 
-loop do
-puts "Checking for answer"
-answer = gets.chomp
-if answer != '5'
-break
-end
-end
+# loop do
+# puts "Checking for answer"
+# answer = gets.chomp
+# if answer != '5'
+# break
+# end
+# end
+
