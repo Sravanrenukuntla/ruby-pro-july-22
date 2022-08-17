@@ -1,9 +1,9 @@
-#i = 100
-#num = 95
-#until i < num do
-#puts("Inside the loop i = #{i}" )
-#i -=1
-#end
+i = 50
+num = 45
+until i < num do
+puts("Inside the loop i = #{i}" )
+i -=1
+end
 
 #puts "external from loop"
 
@@ -42,9 +42,9 @@
 # end
 
 
-for i in 5...11
-if i == 7 then
-break
-end
-puts i
-end
+# for i in 5...11
+# if i == 7 then
+# break
+# end
+# puts i
+# end

@@ -26,11 +26,11 @@
 
   # Times Iterator
 
- #  7.times do |t|
- #  	puts 3+4
- #  	puts 3-8
- #  	puts "something"
- #  end
+  # 3.times do |t|
+  # 	puts 3+4
+  # 	puts 3-8
+  # 	puts "something"
+  # end
 
  # # puts "somting" * 7  repetion operator
 
@@ -53,7 +53,7 @@
 
  # collect iterator. 
 
-#  a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+ a = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
-#  b = a.collect{ |y| (10 * y) }
-# puts b
+ b = a.collect{ |y| (5 * y) }
+puts b

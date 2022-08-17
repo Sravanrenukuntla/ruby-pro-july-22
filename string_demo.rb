@@ -18,7 +18,7 @@
 # moring
 # /
 
-
+    
 # puts <<STRING
 # A
 # BB
@@ -33,8 +33,8 @@
 
 # puts "this is training" + "from" + "gm"
 # puts "this" "is" "ruby training"
-# puts "this"<< "is"<< "training"
-# puts "this is".concat("ruby").concat("training")
+ # puts "this"<< "is"<< "training"
+ # puts "this is".concat("ruby").concat("training")
 
 # puts s1 == s2
 
@@ -48,4 +48,4 @@
 
 a = "some"
 a. capitalize!
-puts a
+puts a 
